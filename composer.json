@@ -1,0 +1,19 @@
+{
+    "name": "10/after-uts",
+    "description": "Tugas Pemrograman Berbasis Web Lanjutan",
+    "type": "project",
+    "require": {
+        "php": "^7.4"
+    },
+    "authors": [
+        {
+            "name": "Wulan Suci",
+            "email": "wulansuci94100@gmail.com"
+        }
+    ],
+    "autoload" : {
+        "psr-4" : {
+            "App\\" : "app/"
+        }
+    }
+}
